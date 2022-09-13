@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #333;
+    color: #fff;
+    margin: 0;
+
+}
+
+.header{
+    background-color: red;
+    height: 30px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.title{
+    background-color: lightcoral;
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.block{
+    background-color: rgb(110, 12, 110);
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+
+.inline{
+    background-color: lightcoral;
+    color: inherit;
+    padding: 5px 10px;
+    margin-left: 100px;
+    border: 1px solid black;
+}
+
+.text{
+    color:black;
+    text-align: justify;
+    
+}
